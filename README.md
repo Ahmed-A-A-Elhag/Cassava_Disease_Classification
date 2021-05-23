@@ -14,7 +14,7 @@ b. Test data:
    - Normalization.
 
 ## 2. Experiments:
-A baseline model was used to better understand the problem, after that a collection of pretrained models were used, in all the last linear layer of the model was replaced with a new one with 5 neurons output. The pretrained models used are ResNet18, ResNet50, ResNet101,ResNext50, ResNext101.
+A baseline model was used to better understand the problem, after that a collection of pretrained models were used, in all the last linear layer of the model was replaced with a new one with 5 neurons output. The pretrained models used are ResNet18, ResNet50, ResNet101, ResNext50, ResNext101.
 
 ## 3. Training:
 - The following hyper-parameters were used during training:
